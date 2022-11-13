@@ -113,7 +113,24 @@
 - 大不了就换个方向呗（:trophy: 创作时间：11 月 13 日)
 
 
+### 阅读动态
+> 程序人生应该是丰富多彩的，阅读让我内心更加强大，共计 `8` 本。
 
+- [蛤蟆先生去看心理医生](https://book.douban.com/subject/35143790/)（`2` 月读完）
+
+- [被讨厌的勇气](https://book.douban.com/subject/26369699/)（`6` 月读完）
+
+- [认知觉醒](https://book.douban.com/subject/35193035/)（`8` 月读完）
+
+- [掌控：开启不疲惫、不焦虑的人生](https://book.douban.com/subject/30273559/)（`8` 月读完）
+
+- [谁动了我的奶酪?](https://book.douban.com/subject/4722180/)（`8` 月读完）
+
+- [下班后开始新的一天](https://book.douban.com/subject/36021556/)（`9` 月读完）
+
+- [人间值得](https://book.douban.com/subject/34797578/)（`10` 月读完）
+
+- [谁动了我的奶酪2](https://book.douban.com/subject/35139833/)（`11` 月读完）
 
 
 > 学如逆水行舟，不进则退
