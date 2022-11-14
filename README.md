@@ -2,7 +2,7 @@
 
 ### 视频动态
 
-> [B 站「一百个Chocolate」](https://space.bilibili.com/351534170)更新视频列表，共计 `37` 个。
+> [B 站「一百个Chocolate」](https://space.bilibili.com/351534170)更新视频列表，共计 `37` 期。
 
 - [GitHub 到底怎么找优秀的开源项目？有些资源自己找就可以了 | 非常实用技巧 | 效率起飞】](https://www.bilibili.com/video/BV1Cr4y1v7cq/?share_source=copy_web&vd_source=3c011055df411cd7eaf08a638498a0b2)
 - [程序员在深一年工作小变化](https://www.bilibili.com/video/BV1EZ4y1k7cH/?share_source=copy_web&vd_source=3c011055df411cd7eaf08a638498a0b2)
@@ -114,6 +114,7 @@
 
 
 ### 阅读动态
+
 > 程序人生应该是丰富多彩的，阅读让我内心更加强大，共计 `8` 本。
 
 - [蛤蟆先生去看心理医生](https://book.douban.com/subject/35143790/)（`2` 月读完）
